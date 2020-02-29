@@ -1,0 +1,16 @@
+bfs input format ::
+breadth_first(1,28,[1],[]).
+
+solve(a,S).
+
+
+dfs input format ::
+path(1,7,P).
+
+
+TSP input format:
+get_road(muradchottor, poly, Visited, Distance).
+
+N-queens format:
+queens(8, Queens).
+

@@ -1,0 +1,14 @@
+Bob and Jerry are siblings.Kate and Shelly are their parent.Kate is a programmer and shelly is a office worker.Bob is working in a bank and Jerry is in a corporate office.Bob married with Tiny.They have child whose name is Tom.
+
+grandFather(X,Y):-male(X),father(X,Z),father(Z,Y).
+male(bob).
+
+male(jerry).
+male(tom).
+male(shelly).
+female(kate).
+father(shelly,bob).
+father(bob,tom).
+mother(shelly,bob).
+
+grand_mother(shelly,tom):-female(shelly),mother(shelly,bob),father(bob,tom).

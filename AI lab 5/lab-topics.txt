@@ -1,0 +1,9 @@
+1.Family tree
+2. Sum of a list, length of a list, maximum number of a list
+3. Write a prolog program for advance arithmetic
+4.gcd, roots of quadratic equations , area of a traigle, area of circle
+5..n-queen problem
+6.travelling salesman 
+7.DFs
+8 .bfs
+9. course details
